@@ -10,7 +10,7 @@ sample.md を参考にして，記述を追加せよ．
 |----|----|
 | クーロンの公式 | $$ F = k\frac{q_1 q_2}{r^2}$$ ||
 | 判別式 | $$ D = b^2 - 4ac $$ ||
-| sinの3倍角の公式 | $$ \sin3θ = 3\sinθ - 4\sin^3θ $$ ||
+| sinの3倍角の公式 | $$ \sin3\theta = 3\sin\theta - 4\sin^3\theta $$ ||
 | 導関数の定義 | $$ f'(x) = \lim_{h→0} \frac {f(x+h) - f(x)} {h} $$ ||
 | $x^2$の不定積分 | $$ \int x^2 dx = \frac {1} {3} x^3 + C（Cは積分定数） $$ ||
 | n個の中からmを取り出す組み合わせの数 | $$ \begin{pmatrix} n \\ m \end{pmatrix} = \frac {n!} {m!(n - m)!} $$
